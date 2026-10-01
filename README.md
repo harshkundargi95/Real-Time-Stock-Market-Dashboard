@@ -6,7 +6,7 @@ Track live prices, visualize trends, analyze technical indicators, and compare s
 
 ## 🌐 Live Demo
 
-**Deploy Link:** https://real-time-stock-market-dashboard-using-python-plotly.streamlit.app/
+**Deploy Link:** 
 
 ---
 
