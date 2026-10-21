@@ -6,8 +6,9 @@ try:
     GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
 except Exception:
     GEMINI_API_KEY = "" # Fallback if secret isn't set
+    
 
-GEMINI_MODEL   = "gemini-3.6-flash"
+GEMINI_MODEL   = "gemini-3.5-flash-lite"
 GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 
 def analyze_stock(ticker: str, company_name: str, price_data: dict, info: dict, df_tail) -> dict:
