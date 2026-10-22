@@ -6,7 +6,7 @@ Track live prices, visualize trends, analyze technical indicators, and compare s
 
 ## 🌐 Live Demo
 
-**Deploy Link:** 
+**Deploy Link:** https://revolutionizing-voting-system---dipex-2025-project-sdvqv242cjb.streamlit.app/
 
 ---
 
